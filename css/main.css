@@ -9,6 +9,10 @@ body {
 	font-family: 'Alef Hebrew';
 }
 
+a:hover img {
+	text-decoration: none;
+}
+
 .header {
 	width: 100%;
 }
