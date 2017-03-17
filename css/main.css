@@ -9,8 +9,8 @@ body {
 	font-family: 'Alef Hebrew';
 }
 
-a:hover img {
-	text-decoration: none;
+.image-link {
+	text-decoration: none !important;
 }
 
 .header {
